@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">問題1.</string>
+    <string name="howManySring">請問民謠吉他有幾條弦?</string>
+    <string name="sixString">六條</string>
+    <string name="fiveString">五條</string>
+    <string name="fourString">四條</string>
+    <string name="threeString">三條</string>
+    <string name="question2">問題2.</string>
+    <string name="whichString">請問民謠吉他使用的是哪種弦?</string>
+    <string name="nylon">尼龍弦</string>
+    <string name="steel">鋼弦</string>
+    <string name="question3">問題3.</string>
+    <string name="wood">請問哪幾種木頭常用來做吉他?</string>
+    <string name="peach">桃花心木</string>
+    <string name="koa">相思木</string>
+    <string name="sapele">沙比利</string>
+    <string name="sour">酸枝木</string>
+    <string name="question4">問題4.</string>
+    <string name="guitarEng">請寫出民謠吉他的英文:</string>
+</resources>
